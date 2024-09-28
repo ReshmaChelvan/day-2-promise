@@ -1,0 +1,26 @@
+#country-name { 
+    font-weight: bolder !important;
+    font-size: x-large;
+}
+
+button:hover{ 
+    background-color: black !important;
+}
+
+img { 
+    width: 300px !important;
+    height: 240px !important;
+}
+
+.text-design {
+    font-size: x-large;
+   font-family: 'Poppins', sans-serif;
+}
+
+.background {
+    background-color: Black  ;
+}
+
+.background-box{
+    background-color: beige !important;
+}
